@@ -1,0 +1,3 @@
+
+
+numb1 = input
